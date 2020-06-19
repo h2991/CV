@@ -1,0 +1,32 @@
+
+body {
+  background-color:#84A9AC;
+  font-family: Arial, Helvetica, sans-serif;
+}
+hr {
+  border-color:#3B6978;
+  border-style:none;
+  border-top-style:dotted;
+  border-width:8px;
+  height:0px;
+  width:8%;
+}
+
+h1 {
+  color: #142850
+  }
+h2 {
+  color: #27496D
+    }
+p {
+  color: #204051
+        }
+  table {
+  color: #204051
+            }
+ul {
+color: #204051
+      }
+ol {
+color: #204051
+      }
